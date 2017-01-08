@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">redpackage</string>
+    <string name="accessibility_description">启动抢红包服务</string>
+</resources>
